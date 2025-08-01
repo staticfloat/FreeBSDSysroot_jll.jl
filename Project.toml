@@ -1,6 +1,6 @@
 name = "FreeBSDSysroot_jll"
 uuid = "671a10c0-f9bf-59ae-b52a-dff4adda89ae"
-version = "14.3.0"
+version = "14.1.0"
 
 [deps]
 Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
