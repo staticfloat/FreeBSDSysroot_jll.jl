@@ -17,17 +17,17 @@ src_version = "14.1.0"
     [builds.callback_defs]
 
     [builds.auxilliary_artifacts.build_log]
-    treehash = "sha1:5b8855a6b0f4d26bfd267d908686d6b90e5fa128"
+    treehash = "sha1:3ff9b038a1f1324bbb5569c785ca04df61fcef27"
 
         [[builds.auxilliary_artifacts.build_log.download_sources]]
-        tarball_hash = "sha256:b6b42b9cb98384108c5b3ff6371b360f2f092a8ac8d5d0cdbac965a7a305de7f"
+        tarball_hash = "sha256:909cd0020744e3f0056a37404ec673646469bbc5f4a99f20a42244e8156b95a0"
         url = "https://github.com/staticfloat/FreeBSDSysroot_jll.jl/releases/download/v14.1.0/FreeBSDSysroot-build_log-v14.1.0-x86_64-unknown-freebsd.tar.gz"
 
     [builds.auxilliary_artifacts.extract_log]
-    treehash = "sha1:16e12554871a9e0112e7f2f198ba36c64427189d"
+    treehash = "sha1:b299a66a46c04b2fb9b262264c74a005bcbe67e6"
 
         [[builds.auxilliary_artifacts.extract_log.download_sources]]
-        tarball_hash = "sha256:16335d27a4b2007daac58c806dba77f35e414147992f01cf5a0dea709a420256"
+        tarball_hash = "sha256:0e486f00881d2ff7033466b53291b5fd949b887f7b395d56f52a6cd18d44d23c"
         url = "https://github.com/staticfloat/FreeBSDSysroot_jll.jl/releases/download/v14.1.0/FreeBSDSysroot-extract_log-v14.1.0-x86_64-unknown-freebsd.tar.gz"
 
     [[builds.products]]
@@ -43,10 +43,10 @@ src_version = "14.1.0"
     url = "http://ftp-archive.freebsd.org/pub/FreeBSD-Archive/old-releases/amd64/14.1-RELEASE/base.txz"
 
     [builds.artifact]
-    treehash = "sha1:a166fbd539562a2329795e395dce69c011f37b8b"
+    treehash = "sha1:b726e60454a842426ac617f471a9236704a26dbe"
 
         [[builds.artifact.download_sources]]
-        tarball_hash = "sha256:9b65ed5361535531ba41911dd1d50fcbfa41096f9879ace2e12e7fc95e34d9f2"
+        tarball_hash = "sha256:0ea354fceed7f224324bd69c283ed2a6fb04b7d585f6de204b454057fde6e75a"
         url = "https://github.com/staticfloat/FreeBSDSysroot_jll.jl/releases/download/v14.1.0/FreeBSDSysroot-v14.1.0-x86_64-unknown-freebsd.tar.gz"
 [[builds]]
 name = "FreeBSDSysroot"
@@ -62,17 +62,17 @@ src_version = "14.1.0"
     [builds.callback_defs]
 
     [builds.auxilliary_artifacts.build_log]
-    treehash = "sha1:2bc1d52deb4686009d46f85dd53c58b788d698d8"
+    treehash = "sha1:5fcb9d8917329468708812ecbbc5949f01efa570"
 
         [[builds.auxilliary_artifacts.build_log.download_sources]]
-        tarball_hash = "sha256:cbd70b810e28cd4b5daeda8be193fe05019caaf37418924a31fd220364b1a997"
+        tarball_hash = "sha256:8dd1032d03da99a7e417dcaf6afbc294f9c5e28cc7f8ada44e47d07bab76c6fd"
         url = "https://github.com/staticfloat/FreeBSDSysroot_jll.jl/releases/download/v14.1.0/FreeBSDSysroot-build_log-v14.1.0-aarch64-unknown-freebsd.tar.gz"
 
     [builds.auxilliary_artifacts.extract_log]
-    treehash = "sha1:449c0f2556ad5ff36b33403f49f29c43f891cfbd"
+    treehash = "sha1:5dbe8d216aa22991f757647f62181a6af51470f1"
 
         [[builds.auxilliary_artifacts.extract_log.download_sources]]
-        tarball_hash = "sha256:8674ad1ee59528d2bbe8490d6a9d06d4f3272b0bea4b694b3cd8442cdd78253c"
+        tarball_hash = "sha256:bb7a2f86d923a2eef8a046f301fa21d7e0b8af230a2bc2b2a8a456146b60e729"
         url = "https://github.com/staticfloat/FreeBSDSysroot_jll.jl/releases/download/v14.1.0/FreeBSDSysroot-extract_log-v14.1.0-aarch64-unknown-freebsd.tar.gz"
 
     [[builds.products]]
@@ -88,8 +88,8 @@ src_version = "14.1.0"
     url = "http://ftp-archive.freebsd.org/pub/FreeBSD-Archive/old-releases/amd64/14.1-RELEASE/base.txz"
 
     [builds.artifact]
-    treehash = "sha1:d118ead7907d245a6d617d5c5268af7e69d8e996"
+    treehash = "sha1:666c732fe27274b41dfe90c14fb80bb189d07a1c"
 
         [[builds.artifact.download_sources]]
-        tarball_hash = "sha256:5e08b98d0743881d9704586680b34168f78b50a6c2864bb20aac6d08152142c1"
+        tarball_hash = "sha256:a82a54d08f90e8a19075e71772b4828a5a50b31705bd90938abfe55581ba64bf"
         url = "https://github.com/staticfloat/FreeBSDSysroot_jll.jl/releases/download/v14.1.0/FreeBSDSysroot-v14.1.0-aarch64-unknown-freebsd.tar.gz"
