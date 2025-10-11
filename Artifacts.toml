@@ -4,51 +4,51 @@ git-tree-sha1 = "b726e60454a842426ac617f471a9236704a26dbe"
 os = "freebsd"
 
     [[FreeBSDSysroot.download]]
-    sha256 = "3aa6078ac14f3c0741187906501679e2c716d5dca2a0358c84ba5ea1eb612ceb"
-    url = "https://github.com/staticfloat/FreeBSDSysroot_jll.jl/releases/download/v14.1.0/FreeBSDSysroot-v14.1.0-x86_64-unknown-freebsd.tar.gz"
+    sha256 = "6c79c79687e735569b3f3607bee83602f735fc7dc4631a36a3b65f86a9103f86"
+    url = "https://github.com/staticfloat/FreeBSDSysroot_jll.jl/releases/download/v14.1.0-GCCBootstrap-x86_64-linux-gnu/FreeBSDSysroot-v14.1.0-x86_64-unknown-freebsd.tar.gz"
 [[FreeBSDSysroot]]
 arch = "aarch64"
 git-tree-sha1 = "666c732fe27274b41dfe90c14fb80bb189d07a1c"
 os = "freebsd"
 
     [[FreeBSDSysroot.download]]
-    sha256 = "9c5397820db34e3942f0d1269a3cba40b8b7928bd02619b4947c9bf7efa205c9"
-    url = "https://github.com/staticfloat/FreeBSDSysroot_jll.jl/releases/download/v14.1.0/FreeBSDSysroot-v14.1.0-aarch64-unknown-freebsd.tar.gz"
+    sha256 = "78b5df0bbeabba720d80f2cc2b07a17864f055484edce60ebdcf69764f53a441"
+    url = "https://github.com/staticfloat/FreeBSDSysroot_jll.jl/releases/download/v14.1.0-GCCBootstrap-x86_64-linux-gnu/FreeBSDSysroot-v14.1.0-aarch64-unknown-freebsd.tar.gz"
 
 [[FreeBSDSysroot-build_log]]
 arch = "x86_64"
-git-tree-sha1 = "e3c09f04154693cf41dae005bea4394fe7c2a82c"
+git-tree-sha1 = "07da61593134d92a7aa283b20cb3ddac08fc6fee"
 lazy = true
 os = "freebsd"
 
     [[FreeBSDSysroot-build_log.download]]
-    sha256 = "48ccdafc64aa5fbcfff70146894106a0535676e7c954c3774311afc36a4cd437"
-    url = "https://github.com/staticfloat/FreeBSDSysroot_jll.jl/releases/download/v14.1.0/FreeBSDSysroot-build_log-v14.1.0-x86_64-unknown-freebsd.tar.gz"
+    sha256 = "075117f532957e99670146ff79a2056ec8856282acc8c3ccb06259b66477b3e3"
+    url = "https://github.com/staticfloat/FreeBSDSysroot_jll.jl/releases/download/v14.1.0-GCCBootstrap-x86_64-linux-gnu/FreeBSDSysroot-build_log-v14.1.0-x86_64-unknown-freebsd.tar.gz"
 [[FreeBSDSysroot-build_log]]
 arch = "aarch64"
-git-tree-sha1 = "3b65d6f3b384cf8e7f665b84927918db2a098810"
+git-tree-sha1 = "bd8742a0f19708452c18888f33df14ead60e29f8"
 lazy = true
 os = "freebsd"
 
     [[FreeBSDSysroot-build_log.download]]
-    sha256 = "ebfffae5b83e8cb4e56ed01e657b56f25dc51dd068ac64d8a36f89ba48620f69"
-    url = "https://github.com/staticfloat/FreeBSDSysroot_jll.jl/releases/download/v14.1.0/FreeBSDSysroot-build_log-v14.1.0-aarch64-unknown-freebsd.tar.gz"
+    sha256 = "e3f4d342d8daa67345b04ee24f2af953e0f2f7f561811eb1b73a17959d1ef364"
+    url = "https://github.com/staticfloat/FreeBSDSysroot_jll.jl/releases/download/v14.1.0-GCCBootstrap-x86_64-linux-gnu/FreeBSDSysroot-build_log-v14.1.0-aarch64-unknown-freebsd.tar.gz"
 
 [[FreeBSDSysroot-extract_log]]
 arch = "x86_64"
-git-tree-sha1 = "a1ca06d8e37b8c20804d5878f63910849843dbdc"
+git-tree-sha1 = "d31b8d3c3e8741700651c54911a7bfa2e3885039"
 lazy = true
 os = "freebsd"
 
     [[FreeBSDSysroot-extract_log.download]]
-    sha256 = "7af65468b058444ec60c995b644472bc71a9d5dfe787b2052eb36c96a56d22d3"
-    url = "https://github.com/staticfloat/FreeBSDSysroot_jll.jl/releases/download/v14.1.0/FreeBSDSysroot-extract_log-v14.1.0-x86_64-unknown-freebsd.tar.gz"
+    sha256 = "48e8375cf50f8cfe5c39303f20766058031d99b02338edf334db7e742cecf8ee"
+    url = "https://github.com/staticfloat/FreeBSDSysroot_jll.jl/releases/download/v14.1.0-GCCBootstrap-x86_64-linux-gnu/FreeBSDSysroot-extract_log-v14.1.0-x86_64-unknown-freebsd.tar.gz"
 [[FreeBSDSysroot-extract_log]]
 arch = "aarch64"
-git-tree-sha1 = "2f7feae8c16ae864a86da855cc8d3c2ba32981bf"
+git-tree-sha1 = "eee997ec3934a62ca9615221e40f0ef2f8421d5d"
 lazy = true
 os = "freebsd"
 
     [[FreeBSDSysroot-extract_log.download]]
-    sha256 = "5e4f8f014c7b5cbf039d0d412ba2fb0ac533d851d7156efaa94f82acc2a355f1"
-    url = "https://github.com/staticfloat/FreeBSDSysroot_jll.jl/releases/download/v14.1.0/FreeBSDSysroot-extract_log-v14.1.0-aarch64-unknown-freebsd.tar.gz"
+    sha256 = "7658732513f267af6cf65d4e08c42d1360b211f40f17ce6d1eed48e24d643b6e"
+    url = "https://github.com/staticfloat/FreeBSDSysroot_jll.jl/releases/download/v14.1.0-GCCBootstrap-x86_64-linux-gnu/FreeBSDSysroot-extract_log-v14.1.0-aarch64-unknown-freebsd.tar.gz"
