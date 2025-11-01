@@ -13,8 +13,8 @@ The binaries for `FreeBSDSysroot` have been built from upstream sources version 
 
 `FreeBSDSysroot` is available for the following platforms:
 
- - `Platform("x86_64", "freebsd"; )`
- - `Platform("aarch64", "freebsd"; )`
+ - `Platform("x86_64", "freebsd"; os_version = "14.1.0")`
+ - `Platform("aarch64", "freebsd"; os_version = "14.1.0")`
 # Dependencies
 The following JLL packages are required by `FreeBSDSysroot`:
 
