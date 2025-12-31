@@ -5,7 +5,7 @@ os = "freebsd"
 os_version = "14.1.0"
 
     [[FreeBSDSysroot.download]]
-    sha256 = "69a047160b3d8466fc826fa7b4435d711227620fa5e24e9c46b169603ead27b2"
+    sha256 = "39c2484cde08154790d21449a388a497902029293901fb8111edd422bfdf6fdd"
     url = "https://github.com/staticfloat/FreeBSDSysroot_jll.jl/releases/download/v14.1.0-GCCBootstrap-x86_64-linux-gnu/FreeBSDSysroot-v14.1.0-aarch64-unknown-freebsd14.1.tar.gz"
 [[FreeBSDSysroot]]
 arch = "x86_64"
@@ -14,7 +14,7 @@ os = "freebsd"
 os_version = "14.1.0"
 
     [[FreeBSDSysroot.download]]
-    sha256 = "c422a3025cdfad6146bb68f0bf78d7318cec6f9985fb9afb4978f083898efca8"
+    sha256 = "689bd6d4adb5f6a56bc238b0eb21e99ac4027fe87a896e5edbba1bda330bbb08"
     url = "https://github.com/staticfloat/FreeBSDSysroot_jll.jl/releases/download/v14.1.0-GCCBootstrap-x86_64-linux-gnu/FreeBSDSysroot-v14.1.0-x86_64-unknown-freebsd14.1.tar.gz"
 
 [[FreeBSDSysroot-build_log]]
@@ -25,7 +25,7 @@ os = "freebsd"
 os_version = "14.1.0"
 
     [[FreeBSDSysroot-build_log.download]]
-    sha256 = "cfb152f0d99736023313a58b96c573855aa7b715615378fcabb0c94abdbd47cf"
+    sha256 = "795db793f741ece26c5175e0f5f4c1f1800d9b9bdcb5823605f6690b98177b87"
     url = "https://github.com/staticfloat/FreeBSDSysroot_jll.jl/releases/download/v14.1.0-GCCBootstrap-x86_64-linux-gnu/FreeBSDSysroot-build_log-v14.1.0-aarch64-unknown-freebsd14.1.tar.gz"
 [[FreeBSDSysroot-build_log]]
 arch = "x86_64"
@@ -35,7 +35,7 @@ os = "freebsd"
 os_version = "14.1.0"
 
     [[FreeBSDSysroot-build_log.download]]
-    sha256 = "d1a356d6c047b46ef9ca5a233b161bb6e612eae0613721b9ced00b1588edfcaf"
+    sha256 = "d9ec0ded88fb3a03aeb586d53bc104581b4e825728892200d8d44f95d59b23d3"
     url = "https://github.com/staticfloat/FreeBSDSysroot_jll.jl/releases/download/v14.1.0-GCCBootstrap-x86_64-linux-gnu/FreeBSDSysroot-build_log-v14.1.0-x86_64-unknown-freebsd14.1.tar.gz"
 
 [[FreeBSDSysroot-extract_log]]
@@ -46,7 +46,7 @@ os = "freebsd"
 os_version = "14.1.0"
 
     [[FreeBSDSysroot-extract_log.download]]
-    sha256 = "b742038d86ddbad50f6e366b3a629fe87f1662604e952b69677951d9d3156cc0"
+    sha256 = "b367ac52ebc988c487686f324f22dbc091e1ea72bb59241009d9894407431e9c"
     url = "https://github.com/staticfloat/FreeBSDSysroot_jll.jl/releases/download/v14.1.0-GCCBootstrap-x86_64-linux-gnu/FreeBSDSysroot-extract_log-v14.1.0-aarch64-unknown-freebsd14.1.tar.gz"
 [[FreeBSDSysroot-extract_log]]
 arch = "x86_64"
@@ -56,5 +56,5 @@ os = "freebsd"
 os_version = "14.1.0"
 
     [[FreeBSDSysroot-extract_log.download]]
-    sha256 = "8990abdcedee64b55f327ccb768a24dc6a32412032b4ae5918dc5071f56f463d"
+    sha256 = "7273973041189c47dc9f1e60e8b152f00725555ae45c2ef8efeda13b39d445bf"
     url = "https://github.com/staticfloat/FreeBSDSysroot_jll.jl/releases/download/v14.1.0-GCCBootstrap-x86_64-linux-gnu/FreeBSDSysroot-extract_log-v14.1.0-x86_64-unknown-freebsd14.1.tar.gz"
